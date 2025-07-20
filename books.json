@@ -1,0 +1,33 @@
+[
+  {
+    "id": "1752901387532",
+    "title": "The Art of Thinking Clearly",
+    "author": "Rolf Dobelli",
+    "tagline": "Art of Thinking",
+    "description": "sdfid fiwdjf ic we f9we cse fe.",
+    "features": [
+      "thought",
+      "wrgrg",
+      "ewre",
+      "ergrg"
+    ],
+    "price": 1.04,
+    "pdf": "/uploads/1752901387471.pdf",
+    "image": "/uploads/1752901387514.JPG"
+  },
+  {
+    "id": "1752911156886",
+    "title": "thinking fast and slow",
+    "author": "Daniel Kahneman",
+    "tagline": "thinking",
+    "description": "sdfhwudf sdfweu fh asfusd cs ef",
+    "features": [
+      "awf efe",
+      "dfdf",
+      "af"
+    ],
+    "price": 1.4,
+    "pdf": "/uploads/1752911156786.pdf",
+    "image": "/uploads/1752911156877.JPG"
+  }
+]
